@@ -1,4 +1,4 @@
-package LearnerBeanLab.Bean;
+package LearnerBeanLab.Bean.Peoples;
 
 import java.util.Collection;
 import java.util.List;

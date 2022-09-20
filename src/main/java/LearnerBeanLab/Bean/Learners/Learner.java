@@ -1,4 +1,4 @@
-package LearnerBeanLab.Bean;
+package LearnerBeanLab.Bean.Learners;
 
 public interface Learner {
 

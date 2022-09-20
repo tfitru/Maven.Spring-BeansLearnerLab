@@ -1,4 +1,8 @@
-package LearnerBeanLab.Bean;
+package LearnerBeanLab.Bean.Classrooms;
+
+import LearnerBeanLab.Bean.Learners.Students;
+import LearnerBeanLab.Bean.Teachers.Instructors;
+import LearnerBeanLab.Bean.Teachers.Teacher;
 
 public class Classroom {
 

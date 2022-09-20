@@ -1,4 +1,6 @@
-package LearnerBeanLab.Bean;
+package LearnerBeanLab.Bean.Teachers;
+
+import LearnerBeanLab.Bean.Learners.Learner;
 
 public interface Teacher {
 

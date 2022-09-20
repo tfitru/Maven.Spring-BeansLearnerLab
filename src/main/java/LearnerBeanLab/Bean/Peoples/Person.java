@@ -1,4 +1,4 @@
-package LearnerBeanLab.Bean;
+package LearnerBeanLab.Bean.Peoples;
 
 public class Person {
 
